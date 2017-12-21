@@ -8,5 +8,4 @@ gem "pry", :group => "development"
 
 group :test do
   gem 'rspec'
-  return nil
 end
